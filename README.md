@@ -4,3 +4,4 @@
 - It won't be anything great but just code like a password generator or maths conversion tools etc just beginner stuff.
 - Why do I make this GitHub page?
   Because I have learnt that if others evaluate your code and suggest changes or point out alternatives, you will automatically develop faster and better. So a big thank you to everyone who is doing this
+- I am from Germany and therefore I will sometimes have German expressions or comments in the code. 
